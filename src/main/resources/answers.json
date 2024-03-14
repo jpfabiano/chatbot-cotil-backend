@@ -1,0 +1,47 @@
+{
+  "faq": [
+    {
+      "keywords": ["criação", "fundação", "inauguração", "criacao", "fundacao", "inauguracao", "criado"],
+      "answer": "O Colégio Técnico de Limeira – COTIL, da Universidade Estadual de Campinas, foi criado pela Lei Estadual nº 7.655, de 28 de dezembro de 1962."
+    },
+    {
+      "keywords": ["cursos", "oferecidos"],
+      "answer": "Desenvolvimento de Sistemas, Edificações, Enfermagem, Geodésia e Cartografia/Agrimensura, Mecânica, Qualidade, nas modalidades integrado e concomitante/subsequente ao Ensino Médio e também Prótese Dentária apenas concomitante/subsequente ao Ensino Médio"
+    },
+    {
+      "keywords": ["prédio", "arquitetura", "predio" , "campus", "estrutura"],
+      "answer": "O prédio do Colégio no campus I da UNICAMP, em Limeira, foi inaugurado em 9 de setembro de 1973.O campus I é composto por um conjunto de edifícios que atende às áreas administrativas e acadêmicas das unidades de ensino e órgão instalados. Além das salas e laboratórios, o campus oferece também restaurante universitário, cantina, área de convivência, praça esportiva, ambulatório médico-odontológico e biblioteca."
+    },
+    {
+      "keywords": ["site","internet","cotil"],
+      "answer": "O site do cotil onde você pode encontrar informações mais detalhadas e atualizadas : https://www.cotil.unicamp.br/"
+    },
+    {
+      "keywords": ["professor","professores","docente","docentes"],
+      "answer": "Confira a lista dos docentes em : https://www.cotil.unicamp.br/docentes/"
+    },
+    {
+      "keywords": ["processo","seletivo","entrar","incricao","inscrição","aluno","prova","edital"],
+      "answer": "Para ingressar no COTIL como aluno , deve-se se inscrever no processo seletivo , que consiste em uma prova com questões de Português , Matemática ,Ciências da Natureza , História , Geografia e deve ser feita uma Redação.Confira mais informações em : https://www.cotil.unicamp.br/processo_seletivo/"
+    },
+    {
+      "keywords": ["cota","cotas"],
+      "answer": "Programa de Cotas Étnico-raciais e Sociais, que reserva 35% das vagas de cada curso para alunos pretos , pardos e indígenas que tenham cursado todo o Ensino Fundamental II em escola pública (14 vagas), outros 35% para alunos que tenham cursado todo o Ensino Fundamental II em escola pública (14 vagas) e os demais 30% à ampla concorrência (12 vagas)."
+    },
+    {
+      "keywords": ["bolsa","bolsas","auxilio","auxilios"],
+      "answer": "As Bolsas e Auxílio oferecidos pelo Cotil são concessões de pagamentos e/ou créditos a estudantes selecionados após período de inscrição e seleção. Dentre as categorias de Bolsas oferecidas pela escola, destacam-se a Bolsa Auxílio Social (BAS), as Bolsas de Monitoria e as Bolsas do Programa de Iniciação Científica no Ensino Médio.Mais informações em : https://www.cotil.unicamp.br/programas-bolsas-e-auxilios/"
+    },
+    {
+      "keywords": ["instagram","pagina","página","insta","ig"],
+      "answer": "Siga e acompanhe o Instagram do cotil : @unicamp.cotil"
+    },
+    {
+      "keywords": ["endereço", "local", "chegar"],
+      "answer": "O Museu está localizado na cidade de Limeira , no endereço Endereço Rua Paschoal Marmo, 1888 Jardim Nova Itália Limeira - SP"
+    }
+  ],
+  "default": "Desculpe, mas no momento não consigo responder sua pergunta. Você pode entrar em contato com a secretaria do COTIL através do número: (19)2113-3303 ou do e-mail : cotil@cotil.unicamp.br"
+}
+
+

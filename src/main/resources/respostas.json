@@ -1,7 +1,7 @@
 {
   "faq": [
     {
-      "keywords": ["criação", "fundação", "inauguração", "criacao", "fundacao", "inauguracao", "criado", "historia"],
+      "keywords": ["criação", "fundação", "inauguração", "criacao", "fundacao", "criado", "fundado"],
       "answer": "O Colégio Técnico de Limeira – COTIL, da Universidade Estadual de Campinas, foi criado pela Lei Estadual nº 7.655, de 28 de dezembro de 1962."
     },
     {
@@ -21,7 +21,7 @@
       "answer": "Confira a lista dos docentes em : https://www.cotil.unicamp.br/docentes/"
     },
     {
-      "keywords": ["processo","seletivo","entrar","incricao","inscrição","aluno","prova","edital"],
+      "keywords": ["processo","seletivo","entrar","inscricao","inscrição","aluno","prova","edital"],
       "answer": "Para ingressar no COTIL como aluno , deve-se se inscrever no processo seletivo , que consiste em uma prova com questões de Português , Matemática ,Ciências da Natureza , História , Geografia e deve ser feita uma Redação.Confira mais informações em : https://www.cotil.unicamp.br/processo_seletivo/"
     },
     {
@@ -29,7 +29,7 @@
       "answer": "Programa de Cotas Étnico-raciais e Sociais, que reserva 35% das vagas de cada curso para alunos pretos , pardos e indígenas que tenham cursado todo o Ensino Fundamental II em escola pública (14 vagas), outros 35% para alunos que tenham cursado todo o Ensino Fundamental II em escola pública (14 vagas) e os demais 30% à ampla concorrência (12 vagas)."
     },
     {
-      "keywords": ["bolsa","bolsas","auxilio","auxilios"],
+      "keywords": ["bolsa","bolsas","auxilio","auxilios","auxílio","auxílios"],
       "answer": "As Bolsas e Auxílio oferecidos pelo Cotil são concessões de pagamentos e/ou créditos a estudantes selecionados após período de inscrição e seleção. Dentre as categorias de Bolsas oferecidas pela escola, destacam-se a Bolsa Auxílio Social (BAS), as Bolsas de Monitoria e as Bolsas do Programa de Iniciação Científica no Ensino Médio.Mais informações em : https://www.cotil.unicamp.br/programas-bolsas-e-auxilios/"
     },
     {

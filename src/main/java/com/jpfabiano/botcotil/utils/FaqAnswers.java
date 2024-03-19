@@ -19,7 +19,7 @@ public class FaqAnswers {
 
     public FaqAnswers() {
         try {
-            JSONTokener tokener = new JSONTokener(new FileInputStream("src/main/resources/answers.json"));
+            JSONTokener tokener = new JSONTokener(new FileInputStream("chatbot-cotil-backend\\src\\main\\resources\\respostas.json"));
             JSONObject faqData = new JSONObject(tokener);
             JSONArray faqArray = faqData.getJSONArray("faq");
             this.answers = new ArrayList<>();
